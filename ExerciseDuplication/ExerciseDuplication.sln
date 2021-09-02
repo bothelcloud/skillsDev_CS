@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolution", "QuadraticSolution\QuadraticSolution.csproj", "{060A01C1-4F01-44B6-ACB5-4AD579701CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineEquation", "LineEquation\LineEquation.csproj", "{1C63114A-E7BE-430B-926A-D4D80E888FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060A01C1-4F01-44B6-ACB5-4AD579701CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060A01C1-4F01-44B6-ACB5-4AD579701CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060A01C1-4F01-44B6-ACB5-4AD579701CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060A01C1-4F01-44B6-ACB5-4AD579701CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C63114A-E7BE-430B-926A-D4D80E888FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C63114A-E7BE-430B-926A-D4D80E888FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C63114A-E7BE-430B-926A-D4D80E888FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C63114A-E7BE-430B-926A-D4D80E888FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6286831-E728-4F7C-878E-D3F841F71F04}
+	EndGlobalSection
+EndGlobal
